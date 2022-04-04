@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aryan Srivastava
+- 👀 I’m interested in Android & Custom ROMs
+- 🌱 I’m currently learning Kotlin Android Development
+- 📫 You can reach me at aryansrivastava9059@gmail.com
