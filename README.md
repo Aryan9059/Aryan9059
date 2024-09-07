@@ -10,7 +10,7 @@
 
 </div>
 
-- 👁️ I’m currently working on hype.pass (An offline Password Manager App).
+- 👁️ I’m currently working on **hype.pass** (An offline password manager app).
 
 - 🏫 I’m currently learning **Kotlin & Jetpack Compose**
 
