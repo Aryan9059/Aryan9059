@@ -12,7 +12,7 @@
 
 - 👁️ I’m currently working on **hype.pass** (An offline password manager app).
 
-- 🏫 I’m currently learning **Kotlin & Jetpack Compose**
+- 🏫 I’m currently learning **Kotlin Multiplatform**
 
 - 👨‍💻 Checkout my Profile at <a href="https://www.linkedin.com/in/aryan-srivastava9059/">LinkedIn</a>
 
