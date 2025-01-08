@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="coding" width="170" src="https://github.com/Aryan9059/Aryan9059/blob/6bde578fe913e89c8c3643ac7d548d830bdf412f/website-maintenance.png">
+<img align="center" alt="coding" width="170" src="https://github.com/Aryan9059/Aryan9059/blob/982bd460657cfe7b839e6b2cc3d1b816e8476284/99357111.png">
 </p>
 
 <div align="center"> 
