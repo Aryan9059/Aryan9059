@@ -4,19 +4,19 @@
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=54CAFA&center=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Aryan+Srivastava;I'm+an+Android+Developer;%F0%9F%8E%A8+Part+time+Graphic+Designer;Android+Custom+ROMs+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=54CAFA&center=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Aryan+Srivastava;I'm+into+Android+Development;%F0%9F%8E%A8+I+enjoy+Graphic+Designing;Love+to+play+with+Android+Custom+ROMs)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/github/followers/Aryan9059?style=for-the-badge" /> 
 
 </div>
 
-- 👁️ I’m currently working on **hype.pass** (An offline password manager app).
+- 👁️ I’m currently working on **Huddle** (A Task & Project Management App).
 
 - 🏫 I’m currently learning **Kotlin Multiplatform**
 
 - 👨‍💻 Checkout my Profile at <a href="https://www.linkedin.com/in/aryan-srivastava9059/">LinkedIn</a>
 
-- 💬 Ask me about **Android, Illustrator, Premiere Pro**
+- 💬 Ask me about **Android Developemnt, Illustrator, Figma**
 <br>
 
 <h3 align="center">📫 Reach out to me on</h3>
