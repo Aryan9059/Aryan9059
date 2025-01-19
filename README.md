@@ -4,7 +4,7 @@
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=54CAFA&center=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Aryan+Srivastava;I'm+into+Android+Development;%F0%9F%8E%A8+I+enjoy+Graphic+Designing;Love+to+play+with+Android+Custom+ROMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=ef7a34&center=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Aryan+Srivastava;I'm+into+Android+Development;%F0%9F%8E%A8+I+enjoy+Graphic+Designing;Love+to+play+with+Android+Custom+ROMs)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/github/followers/Aryan9059?style=for-the-badge" /> 
 
