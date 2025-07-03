@@ -1,22 +1,22 @@
 <p align="center">
-<img align="center" alt="coding" width="170" src="https://github.com/Aryan9059/Aryan9059/blob/982bd460657cfe7b839e6b2cc3d1b816e8476284/99357111.png">
+<img align="center" alt="coding" width="170" src="https://github.com/Aryan9059/Aryan9059/blob/4ee767a09d2abac2305c2fcedd29286e2d0cecd8/Asset%208.svg">
 </p>
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=ef7a34&center=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Aryan+Srivastava;I'm+into+Android+Development;%F0%9F%8E%A8+I+enjoy+Graphic+Designing;Love+to+play+with+Android+Custom+ROMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&pause=1000&color=5cb0e2&center=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Aryan+Srivastava;Sophomore+at+IIIT+Allahabad+🎓)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/github/followers/Aryan9059?style=for-the-badge" /> 
 
 </div>
 
-- 👁️ I’m currently working on **Huddle** (A Task & Project Management App).
+- 👁️ I’m currently working on **hype.home** (A Minimalist Launcher for Android).
 
-- 🏫 I’m currently learning **Kotlin Multiplatform**
+- 🏫 I’m currently practicing **Competitive Programming**
 
 - 👨‍💻 Checkout my Profile at <a href="https://www.linkedin.com/in/aryan-srivastava9059/">LinkedIn</a>
 
-- 💬 Ask me about **Android Developemnt, Illustrator, Figma**
+- 💬 Ask me about **MERN, Android Developemnt, Illustrator, Figma**
 <br>
 
 <h3 align="center">📫 Reach out to me on</h3>
@@ -31,6 +31,8 @@
 
   ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android)
   ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
+  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind)
   ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c)
   ![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B) 
   ![Kotlin](https://img.shields.io/badge/kotlin-000?style=for-the-badge&logo=kotlin)
@@ -52,7 +54,5 @@
 
 </br>
 </br>
-
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 
 </div>
